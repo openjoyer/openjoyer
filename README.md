@@ -42,7 +42,3 @@
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-## Metrics
-
-<img src="github-metrics.svg" alt="GitHub metrics" />
