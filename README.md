@@ -1,3 +1,9 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,50:2563eb,100:22c55e&text=openjoyer&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Backend%20%2F%20Distributed%20Systems&descAlignY=58" alt="openjoyer header" />
+
+</div>
+
 ## Stack
 
 ### Languages
@@ -36,3 +42,7 @@
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+## Metrics
+
+<img src="github-metrics.svg" alt="GitHub metrics" />
