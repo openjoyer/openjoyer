@@ -2,7 +2,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:7c3aed,100:06b6d4&text=openjoyer&fontColor=ffffff&fontSize=56&fontAlignY=36&desc=Backend%20%2F%20Distributed%20Systems&descSize=17&descAlignY=56" alt="openjoyer — Backend / Distributed Systems" />
 </div>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=openjoyer&bg_color=0d1117&color=38bdf8&line=8b5cf6&point=22d3ee&area=true&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=openjoyer&layout=compact&theme=tokyonight&hide_border=true)
 
 ## Technologies
 
