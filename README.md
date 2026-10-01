@@ -1,8 +1,12 @@
+<!-- <div align="center"> -->
+
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,50:2563eb,100:22c55e&text=openjoyer&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Backend%20%2F%20Distributed%20Systems&descAlignY=58" alt="openjoyer header" /> -->
+
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,50:2563eb,100:22c55e&text=openjoyer&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Backend%20%2F%20Distributed%20Systems&descAlignY=58" alt="openjoyer header" />
-
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:7c3aed,100:06b6d4&text=openjoyer&fontColor=ffffff&fontSize=56&fontAlignY=36&desc=Backend%20%2F%20Distributed%20Systems&descSize=17&descAlignY=56" alt="openjoyer — Backend / Distributed Systems" />
 </div>
+
+<!-- </div> -->
 
 ## Technologies
 
